@@ -1,5 +1,5 @@
 # DevOpsII-RestAPIs
-! "number" = put number
+"number" = put number
 
 Postman:
 1. GET
