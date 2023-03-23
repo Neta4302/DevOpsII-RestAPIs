@@ -3,7 +3,7 @@
 Postman:
 1. GET
 1) Put http://127.0.0.1:5000/item inside the url box to see the list of items
-2) Put http://127.0.0.1:5000/item/ <number> to see the specific item
+2) Put http://127.0.0.1:5000/item/"number" to see the specific item
 
 2. POST
 - Put http://127.0.0.1:5000/item inside the url box. 
