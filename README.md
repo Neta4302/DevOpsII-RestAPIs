@@ -8,7 +8,7 @@ Postman:
 
 2. POST
 1) Put http://127.0.0.1:5000/item inside the url box. 
-2) Next click on "body" 
+2) Next click on "Body" 
 3) Then click on "raw" 
 4) Finally put {"name": "product name", "price": "number", "instock": "number"} in the blank
 ! Recommended to choose JSON in "body"
@@ -16,7 +16,7 @@ Postman:
 
 3. PUT
 1) Put http://127.0.0.1:5000/item/"number" inside the url box to update specific item
-2) Next click on "body" 
+2) Next click on "Body" 
 3) Then click on "raw" 
 4) Finally put {"name": "product name", "price": "number", "instock": "number"} in the blank
 ! Recommended to choose JSON in "body"
